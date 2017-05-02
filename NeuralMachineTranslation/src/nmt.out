@@ -1,0 +1,644 @@
+reading train corpus ...
+reading dev corpus ...
+Initializing simple neural machine translator:
+Starting epoch 0
+Training . . .
+sentences processed:  4000
+sentences processed:  8000
+sentences processed:  12000
+sentences processed:  16000
+sentences processed:  20000
+sentences processed:  24000
+sentences processed:  28000
+sentences processed:  32000
+sentences processed:  36000
+sentences processed:  40000
+sentences processed:  44000
+Validation loss this epoch 26096.1497546
+Translating . . .
+translating 5 source sentences...
+Target: <s> i hate green <unk> . </s>
+Translation: <s> i 'm <unk> <unk> . </s>
+
+Target: <s> i can <unk> stand any more of this . </s>
+Translation: <s> it 's not a little too . </s>
+
+Target: <s> take two tablets after every meal . </s>
+Translation: <s> please send the <unk> <unk> . </s>
+
+Target: <s> how much in all ? </s>
+Translation: <s> how about a fare ? </s>
+
+Target: <s> room service , please . </s>
+Translation: <s> i 'd like a <unk> <unk> . </s>
+
+bleu score:  13.6046318709
+Starting epoch 1
+Training . . .
+sentences processed:  4000
+sentences processed:  8000
+sentences processed:  12000
+sentences processed:  16000
+sentences processed:  20000
+sentences processed:  24000
+sentences processed:  28000
+sentences processed:  32000
+sentences processed:  36000
+sentences processed:  40000
+sentences processed:  44000
+Validation loss this epoch 24071.6185002
+Translating . . .
+translating 5 source sentences...
+Target: <s> i hate green <unk> . </s>
+Translation: <s> i 'm <unk> . </s>
+
+Target: <s> i can <unk> stand any more of this . </s>
+Translation: <s> please see it . </s>
+
+Target: <s> take two tablets after every meal . </s>
+Translation: <s> please call a <unk> and a <unk> . </s>
+
+Target: <s> how much in all ? </s>
+Translation: <s> how much is the one ? </s>
+
+Target: <s> room service , please . </s>
+Translation: <s> i 'd like a <unk> , please . </s>
+
+bleu score:  15.6243309359
+Starting epoch 2
+Training . . .
+sentences processed:  4000
+sentences processed:  8000
+sentences processed:  12000
+sentences processed:  16000
+sentences processed:  20000
+sentences processed:  24000
+sentences processed:  28000
+sentences processed:  32000
+sentences processed:  36000
+sentences processed:  40000
+sentences processed:  44000
+Validation loss this epoch 23014.004142
+Translating . . .
+translating 5 source sentences...
+Target: <s> i hate green <unk> . </s>
+Translation: <s> i 'm <unk> . </s>
+
+Target: <s> i can <unk> stand any more of this . </s>
+Translation: <s> it 's too much to the change . </s>
+
+Target: <s> take two tablets after every meal . </s>
+Translation: <s> take it and take it for some more than the meal . </s>
+
+Target: <s> how much in all ? </s>
+Translation: <s> how much is the charge for the day ? </s>
+
+Target: <s> room service , please . </s>
+Translation: <s> i 'd like to take a <unk> . </s>
+
+bleu score:  16.6702931344
+Starting epoch 3
+Training . . .
+sentences processed:  4000
+sentences processed:  8000
+sentences processed:  12000
+sentences processed:  16000
+sentences processed:  20000
+sentences processed:  24000
+sentences processed:  28000
+sentences processed:  32000
+sentences processed:  36000
+sentences processed:  40000
+sentences processed:  44000
+Validation loss this epoch 22139.4344636
+Translating . . .
+translating 5 source sentences...
+Target: <s> i hate green <unk> . </s>
+Translation: <s> i 'm not <unk> . </s>
+
+Target: <s> i can <unk> stand any more of this . </s>
+Translation: <s> it 's too hot , please . </s>
+
+Target: <s> take two tablets after every meal . </s>
+Translation: <s> take it to a <unk> <unk> , please . </s>
+
+Target: <s> how much in all ? </s>
+Translation: <s> how much is it for all ? </s>
+
+Target: <s> room service , please . </s>
+Translation: <s> i 'd like a <unk> of <unk> . </s>
+
+bleu score:  18.124208649
+Starting epoch 4
+Training . . .
+sentences processed:  4000
+sentences processed:  8000
+sentences processed:  12000
+sentences processed:  16000
+sentences processed:  20000
+sentences processed:  24000
+sentences processed:  28000
+sentences processed:  32000
+sentences processed:  36000
+sentences processed:  40000
+sentences processed:  44000
+Validation loss this epoch 22145.084064
+Translating . . .
+translating 5 source sentences...
+Target: <s> i hate green <unk> . </s>
+Translation: <s> i 'm <unk> . </s>
+
+Target: <s> i can <unk> stand any more of this . </s>
+Translation: <s> it 's not a little more . </s>
+
+Target: <s> take two tablets after every meal . </s>
+Translation: <s> please take a long meal for two thousand yen . </s>
+
+Target: <s> how much in all ? </s>
+Translation: <s> how much is the room ? </s>
+
+Target: <s> room service , please . </s>
+Translation: <s> i 'd like a shampoo and <unk> . </s>
+
+bleu score:  17.4930590948
+Starting epoch 5
+Training . . .
+sentences processed:  4000
+sentences processed:  8000
+sentences processed:  12000
+sentences processed:  16000
+sentences processed:  20000
+sentences processed:  24000
+sentences processed:  28000
+sentences processed:  32000
+sentences processed:  36000
+sentences processed:  40000
+sentences processed:  44000
+Validation loss this epoch 21802.810475
+Translating . . .
+translating 5 source sentences...
+Target: <s> i hate green <unk> . </s>
+Translation: <s> i 'm <unk> <unk> . </s>
+
+Target: <s> i can <unk> stand any more of this . </s>
+Translation: <s> there 's no hot water , too . </s>
+
+Target: <s> take two tablets after every meal . </s>
+Translation: <s> take two <unk> , please . </s>
+
+Target: <s> how much in all ? </s>
+Translation: <s> how much is the price ? </s>
+
+Target: <s> room service , please . </s>
+Translation: <s> i 'd like to have a <unk> , please . </s>
+
+bleu score:  18.7939736626
+Starting epoch 6
+Training . . .
+sentences processed:  4000
+sentences processed:  8000
+sentences processed:  12000
+sentences processed:  16000
+sentences processed:  20000
+sentences processed:  24000
+sentences processed:  28000
+sentences processed:  32000
+sentences processed:  36000
+sentences processed:  40000
+sentences processed:  44000
+Validation loss this epoch 21772.920816
+Translating . . .
+translating 5 source sentences...
+Target: <s> i hate green <unk> . </s>
+Translation: <s> i 'm <unk> <unk> . </s>
+
+Target: <s> i can <unk> stand any more of this . </s>
+Translation: <s> please do n't have to be <unk> . </s>
+
+Target: <s> take two tablets after every meal . </s>
+Translation: <s> please give me two <unk> . </s>
+
+Target: <s> how much in all ? </s>
+Translation: <s> how much is it for breakfast ? </s>
+
+Target: <s> room service , please . </s>
+Translation: <s> i 'd like to have the <unk> service . </s>
+
+bleu score:  18.7124053122
+Starting epoch 7
+Training . . .
+sentences processed:  4000
+sentences processed:  8000
+sentences processed:  12000
+sentences processed:  16000
+sentences processed:  20000
+sentences processed:  24000
+sentences processed:  28000
+sentences processed:  32000
+sentences processed:  36000
+sentences processed:  40000
+sentences processed:  44000
+Validation loss this epoch 21403.4379681
+Translating . . .
+translating 5 source sentences...
+Target: <s> i hate green <unk> . </s>
+Translation: <s> i 'm <unk> . </s>
+
+Target: <s> i can <unk> stand any more of this . </s>
+Translation: <s> it 's not more than the <unk> . </s>
+
+Target: <s> take two tablets after every meal . </s>
+Translation: <s> please give me a little three in two days . </s>
+
+Target: <s> how much in all ? </s>
+Translation: <s> how much is the charge ? </s>
+
+Target: <s> room service , please . </s>
+Translation: <s> i 'd like to have the <unk> , please . </s>
+
+bleu score:  20.7544736378
+Starting epoch 8
+Training . . .
+sentences processed:  4000
+sentences processed:  8000
+sentences processed:  12000
+sentences processed:  16000
+sentences processed:  20000
+sentences processed:  24000
+sentences processed:  28000
+sentences processed:  32000
+sentences processed:  36000
+sentences processed:  40000
+sentences processed:  44000
+Validation loss this epoch 21246.0214558
+Translating . . .
+translating 5 source sentences...
+Target: <s> i hate green <unk> . </s>
+Translation: <s> i 'm <unk> . </s>
+
+Target: <s> i can <unk> stand any more of this . </s>
+Translation: <s> there 's no hot . </s>
+
+Target: <s> take two tablets after every meal . </s>
+Translation: <s> take two tablets for two . </s>
+
+Target: <s> how much in all ? </s>
+Translation: <s> how much is the charge ? </s>
+
+Target: <s> room service , please . </s>
+Translation: <s> i 'd like to have the service service . </s>
+
+bleu score:  20.1841154303
+Starting epoch 9
+Training . . .
+sentences processed:  4000
+sentences processed:  8000
+sentences processed:  12000
+sentences processed:  16000
+sentences processed:  20000
+sentences processed:  24000
+sentences processed:  28000
+sentences processed:  32000
+sentences processed:  36000
+sentences processed:  40000
+sentences processed:  44000
+Validation loss this epoch 21078.712339
+Translating . . .
+translating 5 source sentences...
+Target: <s> i hate green <unk> . </s>
+Translation: <s> i 'm <unk> to be <unk> . </s>
+
+Target: <s> i can <unk> stand any more of this . </s>
+Translation: <s> please water is too hot . </s>
+
+Target: <s> take two tablets after every meal . </s>
+Translation: <s> please give me two weeks . </s>
+
+Target: <s> how much in all ? </s>
+Translation: <s> how much is it with the charge ? </s>
+
+Target: <s> room service , please . </s>
+Translation: <s> i 'd like to have the <unk> service . </s>
+
+bleu score:  19.8742901251
+Starting epoch 10
+Training . . .
+sentences processed:  4000
+sentences processed:  8000
+sentences processed:  12000
+sentences processed:  16000
+sentences processed:  20000
+sentences processed:  24000
+sentences processed:  28000
+sentences processed:  32000
+sentences processed:  36000
+sentences processed:  40000
+sentences processed:  44000
+Validation loss this epoch 21055.2277684
+Translating . . .
+translating 5 source sentences...
+Target: <s> i hate green <unk> . </s>
+Translation: <s> i 'm <unk> by <unk> . </s>
+
+Target: <s> i can <unk> stand any more of this . </s>
+Translation: <s> the <unk> was n't <unk> . </s>
+
+Target: <s> take two tablets after every meal . </s>
+Translation: <s> please bring two weeks for two . </s>
+
+Target: <s> how much in all ? </s>
+Translation: <s> how much is the price ? </s>
+
+Target: <s> room service , please . </s>
+Translation: <s> i 'm <unk> . </s>
+
+bleu score:  20.1448698212
+Starting epoch 11
+Training . . .
+sentences processed:  4000
+sentences processed:  8000
+sentences processed:  12000
+sentences processed:  16000
+sentences processed:  20000
+sentences processed:  24000
+sentences processed:  28000
+sentences processed:  32000
+sentences processed:  36000
+sentences processed:  40000
+sentences processed:  44000
+Validation loss this epoch 21243.2453836
+Translating . . .
+translating 5 source sentences...
+Target: <s> i hate green <unk> . </s>
+Translation: <s> i 'm <unk> . </s>
+
+Target: <s> i can <unk> stand any more of this . </s>
+Translation: <s> the <unk> will n't be more . </s>
+
+Target: <s> take two tablets after every meal . </s>
+Translation: <s> please take it to take for a meal . </s>
+
+Target: <s> how much in all ? </s>
+Translation: <s> how much is it for a round trip ? </s>
+
+Target: <s> room service , please . </s>
+Translation: <s> i 'm <unk> . </s>
+
+bleu score:  19.2960220561
+Starting epoch 12
+Training . . .
+sentences processed:  4000
+sentences processed:  8000
+sentences processed:  12000
+sentences processed:  16000
+sentences processed:  20000
+sentences processed:  24000
+sentences processed:  28000
+sentences processed:  32000
+sentences processed:  36000
+sentences processed:  40000
+sentences processed:  44000
+Validation loss this epoch 21148.0788672
+Translating . . .
+translating 5 source sentences...
+Target: <s> i hate green <unk> . </s>
+Translation: <s> i 'm <unk> . </s>
+
+Target: <s> i can <unk> stand any more of this . </s>
+Translation: <s> there 's a little wrong the <unk> . </s>
+
+Target: <s> take two tablets after every meal . </s>
+Translation: <s> take two tablets for each meal , please . </s>
+
+Target: <s> how much in all ? </s>
+Translation: <s> how much is the price ? </s>
+
+Target: <s> room service , please . </s>
+Translation: <s> i 'd like a <unk> . </s>
+
+bleu score:  20.8483474773
+Starting epoch 13
+Training . . .
+sentences processed:  4000
+sentences processed:  8000
+sentences processed:  12000
+sentences processed:  16000
+sentences processed:  20000
+sentences processed:  24000
+sentences processed:  28000
+sentences processed:  32000
+sentences processed:  36000
+sentences processed:  40000
+sentences processed:  44000
+Validation loss this epoch 21046.4800885
+Translating . . .
+translating 5 source sentences...
+Target: <s> i hate green <unk> . </s>
+Translation: <s> i 'm so tired . </s>
+
+Target: <s> i can <unk> stand any more of this . </s>
+Translation: <s> please be hot water in the <unk> . </s>
+
+Target: <s> take two tablets after every meal . </s>
+Translation: <s> please take two <unk> after meals . </s>
+
+Target: <s> how much in all ? </s>
+Translation: <s> how much is that in the charge ? </s>
+
+Target: <s> room service , please . </s>
+Translation: <s> i 'd like to be <unk> service . </s>
+
+bleu score:  21.5494282425
+Starting epoch 14
+Training . . .
+sentences processed:  4000
+sentences processed:  8000
+sentences processed:  12000
+sentences processed:  16000
+sentences processed:  20000
+sentences processed:  24000
+sentences processed:  28000
+sentences processed:  32000
+sentences processed:  36000
+sentences processed:  40000
+sentences processed:  44000
+Validation loss this epoch 21134.1277328
+Translating . . .
+translating 5 source sentences...
+Target: <s> i hate green <unk> . </s>
+Translation: <s> i 'm <unk> . </s>
+
+Target: <s> i can <unk> stand any more of this . </s>
+Translation: <s> the change of the little too long . </s>
+
+Target: <s> take two tablets after every meal . </s>
+Translation: <s> take two tablets after each meal . </s>
+
+Target: <s> how much in all ? </s>
+Translation: <s> how much is the price ? </s>
+
+Target: <s> room service , please . </s>
+Translation: <s> i 'd like to pay the service . </s>
+
+bleu score:  22.2675924461
+Starting epoch 15
+Training . . .
+sentences processed:  4000
+sentences processed:  8000
+sentences processed:  12000
+sentences processed:  16000
+sentences processed:  20000
+sentences processed:  24000
+sentences processed:  28000
+sentences processed:  32000
+sentences processed:  36000
+sentences processed:  40000
+sentences processed:  44000
+Validation loss this epoch 20608.7991931
+Translating . . .
+translating 5 source sentences...
+Target: <s> i hate green <unk> . </s>
+Translation: <s> i 'm <unk> . </s>
+
+Target: <s> i can <unk> stand any more of this . </s>
+Translation: <s> the change is too expensive . </s>
+
+Target: <s> take two tablets after every meal . </s>
+Translation: <s> take two tablets for each meal for each meal , please . </s>
+
+Target: <s> how much in all ? </s>
+Translation: <s> how much is the rate ? </s>
+
+Target: <s> room service , please . </s>
+Translation: <s> i 'm <unk> with <unk> . </s>
+
+bleu score:  22.1269881904
+Starting epoch 16
+Training . . .
+sentences processed:  4000
+sentences processed:  8000
+sentences processed:  12000
+sentences processed:  16000
+sentences processed:  20000
+sentences processed:  24000
+sentences processed:  28000
+sentences processed:  32000
+sentences processed:  36000
+sentences processed:  40000
+sentences processed:  44000
+Validation loss this epoch 21189.2325062
+Translating . . .
+translating 5 source sentences...
+Target: <s> i hate green <unk> . </s>
+Translation: <s> i 'm <unk> . </s>
+
+Target: <s> i can <unk> stand any more of this . </s>
+Translation: <s> please change the change . </s>
+
+Target: <s> take two tablets after every meal . </s>
+Translation: <s> take two capsule after each meal . </s>
+
+Target: <s> how much in all ? </s>
+Translation: <s> what 's the price for <unk> ? </s>
+
+Target: <s> room service , please . </s>
+Translation: <s> i 'm <unk> and <unk> . </s>
+
+bleu score:  20.4163140069
+Starting epoch 17
+Training . . .
+sentences processed:  4000
+sentences processed:  8000
+sentences processed:  12000
+sentences processed:  16000
+sentences processed:  20000
+sentences processed:  24000
+sentences processed:  28000
+sentences processed:  32000
+sentences processed:  36000
+sentences processed:  40000
+sentences processed:  44000
+Validation loss this epoch 20916.9813715
+Translating . . .
+translating 5 source sentences...
+Target: <s> i hate green <unk> . </s>
+Translation: <s> i 'm <unk> . </s>
+
+Target: <s> i can <unk> stand any more of this . </s>
+Translation: <s> the water is too bad . </s>
+
+Target: <s> take two tablets after every meal . </s>
+Translation: <s> please take two tablets for each meal . </s>
+
+Target: <s> how much in all ? </s>
+Translation: <s> how much is it for all all ? </s>
+
+Target: <s> room service , please . </s>
+Translation: <s> i 'll pay and have a insurance . </s>
+
+bleu score:  21.8300975645
+Starting epoch 18
+Training . . .
+sentences processed:  4000
+sentences processed:  8000
+sentences processed:  12000
+sentences processed:  16000
+sentences processed:  20000
+sentences processed:  24000
+sentences processed:  28000
+sentences processed:  32000
+sentences processed:  36000
+sentences processed:  40000
+sentences processed:  44000
+Validation loss this epoch 20922.1264606
+Translating . . .
+translating 5 source sentences...
+Target: <s> i hate green <unk> . </s>
+Translation: <s> i 'm <unk> . </s>
+
+Target: <s> i can <unk> stand any more of this . </s>
+Translation: <s> please water is too small . </s>
+
+Target: <s> take two tablets after every meal . </s>
+Translation: <s> take me two times a day . </s>
+
+Target: <s> how much in all ? </s>
+Translation: <s> how much is the bill ? </s>
+
+Target: <s> room service , please . </s>
+Translation: <s> i 'd like to have a <unk> <unk> . </s>
+
+bleu score:  22.8396894149
+Starting epoch 19
+Training . . .
+sentences processed:  4000
+sentences processed:  8000
+sentences processed:  12000
+sentences processed:  16000
+sentences processed:  20000
+sentences processed:  24000
+sentences processed:  28000
+sentences processed:  32000
+sentences processed:  36000
+sentences processed:  40000
+sentences processed:  44000
+Validation loss this epoch 21200.0371601
+Translating . . .
+translating 5 source sentences...
+Target: <s> i hate green <unk> . </s>
+Translation: <s> i 'm <unk> . </s>
+
+Target: <s> i can <unk> stand any more of this . </s>
+Translation: <s> the <unk> room is n't . </s>
+
+Target: <s> take two tablets after every meal . </s>
+Translation: <s> take two slices of cheese , please . </s>
+
+Target: <s> how much in all ? </s>
+Translation: <s> how much is it ? </s>
+
+Target: <s> room service , please . </s>
+Translation: <s> i 'd like to have a roll of unleaded . </s>
+
+bleu score:  21.7661707412
+best bleu score:  22.8396894149

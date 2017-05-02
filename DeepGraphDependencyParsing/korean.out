@@ -1,0 +1,109 @@
+reading train...
+read 200 examples
+reading test...
+read 100 examples
+Initializing lstm parser:
+Word vocabulary size: 2065
+Dependency relation vocabulary size: 26
+POS vocabulary size: 21
+formatting test data...
+Starting epoch 0
+7.47811317444
+Training loss: (108.25223833322525, 178.73988190293312)
+UAS: 34.33
+LAS: 21.62
+Starting epoch 1
+7.62638998032
+Training loss: (35.22880357503891, 1.819955199956894)
+UAS: 52.25
+LAS: 38.64
+Starting epoch 2
+7.55706000328
+Training loss: (20.44841605424881, -22.789498031139374)
+UAS: 62.66
+LAS: 47.75
+Starting epoch 3
+7.56204104424
+Training loss: (-21.020729780197144, 21.349363386631012)
+UAS: 69.17
+LAS: 55.66
+Starting epoch 4
+7.5785639286
+Training loss: (-62.385000705718994, -37.04954379796982)
+UAS: 71.77
+LAS: 56.96
+Starting epoch 5
+7.42547607422
+Training loss: (-34.721342861652374, -16.9013654589653)
+UAS: 69.07
+LAS: 54.25
+Starting epoch 6
+7.19382309914
+Training loss: (-76.52072477340698, -89.04144477844238)
+UAS: 72.67
+LAS: 56.46
+Starting epoch 7
+7.19363093376
+Training loss: (-83.67789936065674, -91.95905065536499)
+UAS: 71.57
+LAS: 56.36
+Starting epoch 8
+6.99165010452
+Training loss: (-82.02199196815491, -77.91271460056305)
+UAS: 71.97
+LAS: 57.36
+Starting epoch 9
+6.90168190002
+Training loss: (-82.01143622398376, -58.77826100587845)
+UAS: 72.47
+LAS: 57.16
+Starting epoch 10
+6.86495089531
+Training loss: (-98.0251669883728, -39.66520547866821)
+UAS: 72.67
+LAS: 58.56
+Starting epoch 11
+6.85168600082
+Training loss: (-115.23493510484695, -36.038071632385254)
+UAS: 71.27
+LAS: 57.26
+Starting epoch 12
+6.78143715858
+Training loss: (-103.27984362840652, -44.02521109580994)
+UAS: 73.07
+LAS: 58.26
+Starting epoch 13
+6.75140500069
+Training loss: (-57.30438184738159, -51.48796617984772)
+UAS: 70.27
+LAS: 54.95
+Starting epoch 14
+6.63822698593
+Training loss: (-95.34054690599442, -32.43090796470642)
+UAS: 71.37
+LAS: 56.66
+Starting epoch 15
+6.58996295929
+Training loss: (-87.28361749649048, -41.27383041381836)
+UAS: 72.47
+LAS: 56.56
+Starting epoch 16
+6.59806418419
+Training loss: (-58.33249080181122, -39.71258568763733)
+UAS: 73.07
+LAS: 56.96
+Starting epoch 17
+6.58331489563
+Training loss: (-56.763317227363586, -23.720284581184387)
+UAS: 71.97
+LAS: 57.26
+Starting epoch 18
+6.5468120575
+Training loss: (-71.5139422416687, -20.852153062820435)
+UAS: 73.57
+LAS: 58.46
+Starting epoch 19
+6.49973011017
+Training loss: (-60.79183542728424, -26.591010332107544)
+UAS: 73.37
+LAS: 58.36
